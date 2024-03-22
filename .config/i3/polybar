@@ -17,7 +17,8 @@
 ;==========================================================
 
 [colors]
-background = #2F343F
+#background = #2F343F
+background = #090909
 blue = #0f0f14
 ; background-alt = #aa373B41
 foreground = #c5c9cd
@@ -36,23 +37,24 @@ dpi = 96
 background = ${colors.background}
 foreground = ${colors.foreground}
 
-line-size = 3pt
+line-size = 3gpt
 
-border-size = 3pt
-border-color = #00000000
+border-size = 2pt
+border-color = #51caa0
 
 padding-left = 0
 padding-right = 1
 
 module-margin =  systray1
 
-separator = /
+separator = |
 separator-foreground = ${colors.disabled}
 
 font-0 = UbuntuMono Nerd Font Propo:style=Regular;2
 
 modules-left = down xworkspaces
-modules-right = launcher launcher2 launcher3 keys systray pulseaudio date session
+modules-center = launcher launcher2 launcher3 launcher4
+modules-right = keys systray pulseaudio date session
 
 cursor-click = pointer
 cursor-scroll = ns-resize
@@ -169,7 +171,7 @@ date = %H:%M
 date-alt = %Y-%m-%d %H:%M:%S
 
 label = %date%
-label-foreground = ${colors.primary}
+label-foreground = #51caa0 
 
 [settings]
 screenchange-reload = true
@@ -179,32 +181,32 @@ pseudo-transparency = true
 
 [module/launcher]
 type = custom/text
-content = "[discord]"
+content = "󰙯"
 content-foreground = ${colors.foreground}
 content-background = ${colors.background} 
 content-padding = 0
-click-left = discord &
+click-left = discord
 
 [module/launcher2]
 type = custom/text
-content = "[thorium]"
+content = "󰈹"
 content-foreground = ${colors.foreground}
 content-background = ${colors.background}
 content-padding = 0
-click-left = exec /opt/Thorium.AppImage &
+click-left = librewolf 
 
 
 [module/launcher3]
 type = custom/text
-content = "[spotify]"
+content = "󰓇"
 content-foreground = ${colors.foreground}
 content-background = ${colors.background}
 content-padding = 0
-click-left = spotify &
+click-left = spotify-launcher
 
 [module/down]
 type = custom/text
-content = ""
+content = ""
 content-foreground = ${colors.foreground}
 content-background = ${colors.background}
 content-padding = 2
@@ -219,11 +221,10 @@ content-background = ${colors.background}
 content-padding = 2
 click-left = sudo poweroff
 
-
-[module/keys]
+[module/launcher4]
 type = custom/text
-content = "󰌌"
+content = ""
 content-foreground = ${colors.foreground}
 content-background = ${colors.background}
-content-padding = 2
-click-left = exec /opt/MechaKeys-2.0.6.AppImage
+content-padding = 0
+click-left = freetube
