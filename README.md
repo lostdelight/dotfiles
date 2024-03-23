@@ -16,6 +16,8 @@
 - NerdFonts
 - Noto Fonts - CJK
 - Rofi
+- NwgPiotr's Autotiling for i3 and SwayWM
+  https://github.com/nwg-piotr/autotiling
 
 
 
