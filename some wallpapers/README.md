@@ -1,0 +1,7 @@
+![b-170](https://github.com/lostdelight/dotfiles/assets/157127531/2a4b6ac1-7dbf-4a3e-95bb-e6b06cd314b4)
+![b-208](https://github.com/lostdelight/dotfiles/assets/157127531/9366df9d-e2ee-43da-acf6-79c22a217666)
+![b-234](https://github.com/lostdelight/dotfiles/assets/157127531/717a5d5d-befb-4765-8909-af88f8f1c119)
+![evangelion](https://github.com/lostdelight/dotfiles/assets/157127531/23ae1b06-d68a-41aa-b1e1-bf6d298e26e7)
+![w-230](https://github.com/lostdelight/dotfiles/assets/157127531/6c9ad1a9-68ea-4cf0-8997-67b9baa8a3b2)
+![berserk2](https://github.com/lostdelight/dotfiles/assets/157127531/e0cb9bdd-97da-45dd-af10-5a4c12e72ad5)
+![berserk](https://github.com/lostdelight/dotfiles/assets/157127531/c8c2ae71-6b5d-46b9-8af4-04ee7ba2e253)
