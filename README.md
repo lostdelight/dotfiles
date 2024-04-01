@@ -10,7 +10,7 @@
   https://github.com/nwg-piotr/autotiling
 - Arian8j2's Picom fork for animations
   https://github.com/Arian8j2/picom/
-- Pywal (optional)
+- Pywal (optional) (feh is a must)
 
 
 
