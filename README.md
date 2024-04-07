@@ -3,14 +3,15 @@
 # Depends on 
 - Nitrogen
 - Polybar
-- NerdFonts (Ubuntu Mono)
+- NerdFonts (Ubuntu Mono) (ProFont)
 - Noto Fonts - CJK
 - Rofi
 - NwgPiotr's Autotiling for i3 and SwayWM
   https://github.com/nwg-piotr/autotiling
 - Arian8j2's Picom fork for animations
   https://github.com/Arian8j2/picom/
-- Pywal (optional) (feh is a must)
+- Pywal (optional) (feh is optional)
+- Xorg utilities
 
 # Some apps I like
 - YouTube-TUI
