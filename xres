@@ -1,0 +1,21 @@
+Xcursor.size: 24
+*background:	#37131f
+*foreground:    #e3d3d9
+*.color0:	#1e1b2b
+*.color1:	#379BC1
+*.color10:	#3CA2C4
+*.color11:	#57AAC6
+*.color12:	#808684
+*.color13:	#E0B4A6
+*.color14:	#9DB1C6
+*.color15:	#f0e4df
+*.color2:	#3CA2C4
+*.color3:	#57AAC6
+*.color4:	#808684
+*.color5:	#E0B4A6
+*.color6:	#9DB1C6
+*.color66:	#1e1b2b
+*.color7:	#f0e4df
+*.color8:	#a89f9c
+*.color9:	#379BC1
+
